@@ -1,5 +1,5 @@
--e .
 pandas
 numpy
-seaborn
 matplotlib
+seaborn
+#-e .
